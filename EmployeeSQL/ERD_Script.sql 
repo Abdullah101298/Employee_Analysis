@@ -1,0 +1,41 @@
+Departments 
+-----
+Department_Number VARCHAR(30) pk
+Department_Name VARCHAR(30) Null
+
+Employees_Department
+----- 
+Employee_Number INT
+Department_Number VARCHAR(30) NULL 
+From_Date VARCHAR(30) NULL 
+To_Date VARCHAR(30) NULL 
+
+Managers 
+----- 
+Department_Number VARCHAR(30) NULL
+Manager_Number INT 
+From_Date VARCHAR(30) NULL 
+To_Date VARCHAR(30) NULL 
+  
+Employees 
+-----
+Employee_Number INT pk 
+Birth_Date VARCHAR(30) NULL
+First_Name VARCHAR(30) NULL
+Last_Name VARCHAR(30) NULL
+Gender VARCHAR(30) NULL 
+Hire_Date VARCHAR(30) NULL 
+
+Salaries 
+----- 
+Employee_Number INT
+Salary_Number INT 
+From_Date VARCHAR(30) NULL 
+To_Date VARCHAR(30) NULL 
+
+Titles 
+----- 
+Employee_Number INT
+Title VARCHAR(30) NULL 
+From_Date VARCHAR(30) NULL 
+To_Date VARCHAR(30) NULL 
