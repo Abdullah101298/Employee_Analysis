@@ -1,4 +1,8 @@
-# SQL Challenge 
+# Analyzing Employee Data 
+
+
+
+### Program analysis - SQL
 
 ## Background 
 
