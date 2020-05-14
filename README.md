@@ -1,6 +1,6 @@
 # Analyzing Employee Data 
 
-
+<img src = "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Frebeccaskilbeck%2Ffiles%2F2019%2F02%2FMaintianing-Motivation-in-employees-Blog-Graphic-1200x861.jpg" width = 1000 height = 400> 
 
 ### Program used - SQL
 
