@@ -17,7 +17,7 @@ The data was imported from the CSV files into the tables sketched in ERD and exp
 In this section, the following tasks were complete to analyze the data. 
 
       (1) List the following details of each employee: employee number, last             
-      name, first name, gender, and salary.
+          name, first name, gender, and salary.
 
       (2) List employees who were hired in 1986.
 
