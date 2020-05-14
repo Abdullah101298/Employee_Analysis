@@ -2,7 +2,7 @@
 
 
 
-### Program analysis - SQL
+### Program used - SQL
 
 ## Background 
 
