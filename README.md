@@ -13,7 +13,6 @@ Using the 6 csv files given, ERDs were created on http://www.quickdatabasediagra
 The data was imported from the CSV files into the tables sketched in ERD and exported to SQL. 
 
 ## Task 3 - Analyze the data 
-
 In this section, the following tasks were complete to analyze the data. 
 
       (1) List the following details of each employee: employee number, last             
